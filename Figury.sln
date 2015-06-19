@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Figury", "Figury\Figury.csproj", "{156A57C7-DCF1-4262-9281-7097BD10A66C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BF739AEC-DABA-4DAF-A0DF-4811D6FA1EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156A57C7-DCF1-4262-9281-7097BD10A66C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156A57C7-DCF1-4262-9281-7097BD10A66C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156A57C7-DCF1-4262-9281-7097BD10A66C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156A57C7-DCF1-4262-9281-7097BD10A66C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
